@@ -45,4 +45,9 @@ Coleta de dados do site Justiça Aberta utilizando Selenium e BeautifulSoup.
 Sistema web com cadastro de serviços, assinatura digital e upload de imagens.
 
 ---
+### 📜 Certificações
+
+- **Fundamentos do Desenvolvimento Web** — IBM SkillsBuild  
+  [Ver certificado](https://skills.yourlearning.ibm.com/certificate/share/37f718084bewogICJsZWFybmVyQ05VTSIgOiAiOTI5NTQwMVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODkzNyIKfQcdc1f46808-10)
+
 
