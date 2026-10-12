@@ -45,9 +45,22 @@ Coleta de dados do site Justiça Aberta utilizando Selenium e BeautifulSoup.
 Sistema web com cadastro de serviços, assinatura digital e upload de imagens.
 
 ---
-### 📜 Certificações
+## 🏆 Certificações & Conquistas
 
-- **Fundamentos do Desenvolvimento Web** — IBM SkillsBuild  
-  [Ver certificado](https://skills.yourlearning.ibm.com/certificate/share/37f718084bewogICJsZWFybmVyQ05VTSIgOiAiOTI5NTQwMVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODkzNyIKfQcdc1f46808-10)
+<div align="center">
+
+  <a href="https://skills.yourlearning.ibm.com/certificate/share/37f718084bewogICJsZWFybmVyQ05VTSIgOiAiOTI5NTQwMVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODkzNyIKfQcdc1f46808-10">
+    <img src="https://img.shields.io/badge/IBM_SkillsBuild-Desenvolvimento_Web-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild — Desenvolvimento Web"/>
+  </a>
+
+  <br/>
+
+  **Fundamentos do Desenvolvimento Web**
+
+  Formação em conceitos essenciais para a criação de aplicações e páginas web.
+
+  [🎓 Ver certificado oficial](https://skills.yourlearning.ibm.com/certificate/share/37f718084bewogICJsZWFybmVyQ05VTSIgOiAiOTI5NTQwMVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfNDA1ODkzNyIKfQcdc1f46808-10)
+
+</div>
 
 
